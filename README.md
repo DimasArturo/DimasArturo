@@ -3,17 +3,15 @@
 </div>
 <img src="https://media.licdn.com/dms/image/v2/D4E16AQF0_c4EE0Nhrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692455806578?e=1743638400&v=beta&t=KNdgF28TW-QW0ogvP9nFMxD-0QifxlHc5AF3GgXzun8">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+<img alt="Static Badge" src="https://img.shields.io/badge/Ingeniero_en_desarollo_y_gestion_del_software-blue?logo=readdotcv&link=www.linkedin.com%2Fin%2Fdimas-arturo-l%C3%B3pez-montalvo-7701bb285">
 
 ## Sobre mi
  
 - 📲 Mobile developer
-- 🎥 Autodidacta
-- ✏️ Apasionado del desarrollo de apps moviles
-- apps nativas, hibridas y PWA
+- 💪 Autodidacta
+- 💻 Desarrollo web FullStack MERN
+- 🎧 Soporte de TI
+- 👔 Responsable y Honesto
 <br>
 
 ## Proyectos *bombitas*
