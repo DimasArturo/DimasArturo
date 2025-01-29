@@ -14,6 +14,14 @@
 - 👔 Responsable y Honesto
 <br>
 
+<h2> 🔅Tecnologías que he usado🔅 </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,nodejs,kotlin,arduino,bootstrap,materialui,cs,html,css,js,dotnet,figma,firebase,git,github,ai,java,laravel,linkedin,redux,sqlite,mongodb,mysql,notion,npm,ps,php,postman,py,ts,ubuntu,visualstudio,vite,androidstudio,gradle,gcp,vscode&perline =14" />
+  </a>
+</p>
+
 ## Proyectos más relevantes en lo que llevo de carrera
 <table>
 <tr>
