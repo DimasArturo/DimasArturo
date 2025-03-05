@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Dimas López</a> 👋</h1>
 </div>
-<img src="[https://media.licdn.com/dms/image/v2/D4E16AQF0_c4EE0Nhrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1692455806578?e=1743638400&v=beta&t=KNdgF28TW-QW0ogvP9nFMxD-0QifxlHc5AF3GgXzun8](https://media.licdn.com/dms/image/v2/D4E16AQGWOfnivjh7Ww/profile-displaybackgroundimage-shrink_350_1400/B4EZVN_8lJGYAY-/0/1740770364062?e=1746662400&v=beta&t=nNg5odZO4IRiueacSK5RWA1Xw85A92HKVBF4ovMCV-s)">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGWOfnivjh7Ww/profile-displaybackgroundimage-shrink_350_1400/B4EZVN_8lJGYAY-/0/1740770364062?e=1746662400&v=beta&t=nNg5odZO4IRiueacSK5RWA1Xw85A92HKVBF4ovMCV-s">
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Ingeniero_en_desarollo_y_gestion_del_software-blue?logo=readdotcv&link=www.linkedin.com%2Fin%2Fdimas-arturo-l%C3%B3pez-montalvo-7701bb285">
 
