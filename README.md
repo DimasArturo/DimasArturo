@@ -73,15 +73,15 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">CV con React</h3>
+<h3 align="center">Portafolio web</h3>
 <div align="center">
-<a href="https://github.com/dimaslopez2003/cv-react.git" target="_blank"><img src="https://imgur.com/0TlDwvg.jpeg" width="400" alt="CV"></a>
+<a href="https://dimaslopez.com/" target="_blank"><img src="https://i.imgur.com/iwYX125.jpeg" width="400" alt="CV"></a>
 <p>
-<a href="https://github.com/dimaslopez2003/cv-react.git" target="_blank">
+<a href="https://github.com/DimasArturo/PortafolioDimas.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Mi primera aplicacion web en producción hecha con react y MateriaUI en la cual destaco mi experiencia laboral y academica, la app web está publicada mediante GitHub Pages.</p>
+<p>Portafolio web con react y tailwind, publicado en un host y dominio de Amazon AWS</p>
 </div>
                                                                                       
 </td>  
