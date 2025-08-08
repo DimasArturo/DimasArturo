@@ -9,7 +9,7 @@
  
 - 📲 Mobile developer
 - 💪 Autodidacta
-- 💻 Desarrollo web FullStack MERN
+- 💻 Desarrollo FullStack
 - 🎧 Soporte de TI
 - 👔 Responsable y Honesto
 <br>
