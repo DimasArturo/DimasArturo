@@ -22,75 +22,7 @@
   </a>
 </p>
 
-## Proyectos más relevantes en lo que llevo de carrera
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">WorkCheckApp</h3>
-<div align="center">
-<a href="https://github.com/dimaslopez2003/CheckWork.git" target="_blank"><img src="https://i.imgur.com/Ydem3mU.jpeg" width="400" alt="AppKotlin"></a>
-<p>
-<a href="https://github.com/dimaslopez2003/CheckWork.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Proyecto integrador de fin de cuatrimestre 10 en la Universidad Tecnológica de Cancún</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">App TemasDeChat - Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/DimasArturo/ThemesChat.git" target="_blank"><img src="https://imgur.com/iCwGXmV.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/DimasArturo/ThemesChat.git" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En esta App se integra el modelo MVVVM y UX/UI mediante el lenguaje Kotlin con JetPackCompose</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">ElizabethNails</h3>
-<div align="center">
-<a href="https://github.com/dimaslopez2003/U-as_Eli.git" target="_blank"><img src="https://imgur.com/nCgS2rT.jpeg" width="400" alt="React.JS"></a>
-<p>
-<a href="https://github.com/dimaslopez2003/U-as_Eli.git" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p> Página web de salon de belleza hecha con React y MaterialUI para el diseño de los componentes</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Portafolio web</h3>
-<div align="center">
-<a href="https://dimaslopez.com/" target="_blank"><img src="https://i.imgur.com/iwYX125.jpeg" width="400" alt="CV"></a>
-<p>
-<a href="https://github.com/DimasArturo/PortafolioDimas.git" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Portafolio web con react y tailwind, publicado en un host y dominio de Amazon AWS</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
-
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/DimasArturo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DimasArturo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
